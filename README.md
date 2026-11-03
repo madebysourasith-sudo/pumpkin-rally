@@ -4,6 +4,8 @@ A cute Halloween kart race that runs in your browser. Pick a ride and a driver, 
 
 **▶ Play now: https://madebysourasith-sudo.github.io/pumpkin-rally/**
 
+On an older computer or phone? Try **[light mode](https://madebysourasith-sudo.github.io/pumpkin-rally/?lite)**. The game also switches to it automatically on weak graphics chips.
+
 ![Racing at sunset](assets/screenshot.jpg)
 
 ![Garage](assets/garage.jpg)
